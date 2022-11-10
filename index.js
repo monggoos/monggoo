@@ -4,6 +4,7 @@ $(document).ready(function () {
 });
 
 
+
 function renderCurrentTime() {
 let url = `https://worldtimeapi.org/api/timezone/Asia/Seoul`;
 fetch(url)
